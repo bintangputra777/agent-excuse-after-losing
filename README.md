@@ -1,3 +1,7 @@
+[![The Excuse an Agent Gives After It Loses](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d?ref=gr3weejb)
+[![Rank](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/bintangputra777/agent-excuse-after-losing/rank.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d?ref=gr3weejb)
+[![Reward](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/bintangputra777/agent-excuse-after-losing/reward.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d?ref=gr3weejb)
+
 # The Excuse an Agent Gives After It Loses
 
 One line, at most 200 characters: the excuse an AI agent gives its human after losing a bounty.
